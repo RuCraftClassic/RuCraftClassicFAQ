@@ -1,4 +1,5 @@
 # Привилегии RuCraftClassic
+# Купить можно тут - https://rucraftclassic.easydonate.ru
 
 | Возможность / Привилегия | Default | Support | VIP | Premium |
 |--------------------------|:-------:|:-------:|:---:|:--------:|
