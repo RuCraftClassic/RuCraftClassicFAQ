@@ -7,17 +7,79 @@
 | Перезарядка RTP | Долгая | Средняя | Короткая | Очень короткая |
 | Кол-во варпов | 2 | 3 | 4 | 5 |
 | Кол-во приват-территорий | 3 | 4 | 5 | 6 |
-| Сохранение опыта | ❌ | ❌ | ✅ | ✅ |
-| Сохранение инвентаря | ❌ | ❌ | ❌ | ✅ |
+| Сохранение опыта (/keep exp) | ❌ | ❌ | ✅ | ✅ |
+| Сохранение инвентаря (/keep inv) | ❌ | ❌ | ❌ | ✅ |
 | /craft (верстак) | ❌ | ❌ | ✅ | ✅ |
 | /ender (эндер-сундук) | ❌ | ❌ | ❌ | ✅ |
 | /heal (лечение) | ❌ | ❌ | ❌ | ✅ |
 | /kuz (кузница) | ❌ | ❌ | ❌ | ✅ |
-| /kit resources | ❌ | ✅ | ✅ | ✅ |
-| /kit vip | ❌ | ❌ | ✅ | ✅ |
-| /kit premium | ❌ | ❌ | ❌ | ✅ |
-| /kit music | ❌ | ❌ | ❌ | ✅ |
-| /kit eggs | ❌ | ❌ | ❌ | ✅ |
-| /kit exp | ❌ | ❌ | ❌ | ✅ |
-| /kit fireworks | ❌ | ❌ | ❌ | ✅ |
+| /kit resources (12 часов) | ❌ | ✅ | ✅ | ✅ |
+| /kit vip (24 часа) | ❌ | ❌ | ✅ | ✅ |
+| /kit premium (5 дней) | ❌ | ❌ | ❌ | ✅ |
+| /kit music (30 дней) | ❌ | ❌ | ❌ | ✅ |
+| /kit eggs (7 дней) | ❌ | ❌ | ❌ | ✅ |
+| /kit exp (24 часа) | ❌ | ❌ | ❌ | ✅ |
+| /kit fireworks (24 часа) | ❌ | ❌ | ❌ | ✅ |
 
+# 🎁 Скриншоты наборов
+
+<details>
+  <summary><strong>📦 Kit Resources</strong></summary>
+
+  ![Kit Resources](./pr/res.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>💎 Kit VIP</strong></summary>
+
+  ![Kit VIP](./pr/vip.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>👑 Kit Premium</strong></summary>
+
+  ![Kit Premium](./pr/premium.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🎶 Kit Music</strong></summary>
+
+  ![Kit Music](./pr/music.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🥚 Kit Eggs</strong></summary>
+
+  ![Kit Eggs](./pr/eggs.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>✨ Kit EXP</strong></summary>
+
+  ![Kit EXP](./pr/exp.png)
+
+</details>
+
+---
+
+<details>
+  <summary><strong>🎆 Kit Fireworks</strong></summary>
+
+  ![Kit Fireworks](./pr/fireworks.png)
+
+</details>
